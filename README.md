@@ -1,2 +1,2 @@
-# Fuzzy-Logic-Target-Tracking
-A simulation of a fuzzy logic controller for target tracking
+# Fuzzy Logic Target Tracking
+A simulation of a Fuzzy logic controller for target tracking.
